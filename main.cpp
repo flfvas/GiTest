@@ -1,3 +1,5 @@
+//00000000000000000000000
+
 #include "mainwindow.h"
 
 #include <QApplication>
